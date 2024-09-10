@@ -13,11 +13,9 @@ export const BorderWrapper = styled.div`
 	gap: 10px;
 	justify-content: space-between;
 	padding: 0 20px;
+	cursor: pointer;
 
 	h3 {
 		margin-right: 10px;
 	}
-`;
-export const ButtonsBlock = styled.div`
-	display: flex;
 `;

@@ -1,244 +1,274 @@
 {
-	"products": [
-		{
-			"id": 1,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Apple",
-			"count": 10,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "150g",
-			"comments": ["Fresh and juicy.", "Great taste!"]
-		},
-		{
-			"id": 2,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Banana",
-			"count": 15,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "120g",
-			"comments": ["Good for smoothies.", "Soft and sweet."]
-		},
-		{
-			"id": 3,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Orange",
-			"count": 8,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "250g",
-			"comments": ["Perfect for juice.", "Very fresh."]
-		},
-		{
-			"id": 4,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Grapes",
-			"count": 20,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "500g",
-			"comments": ["Seedless and sweet.", "Nice and crunchy."]
-		},
-		{
-			"id": 5,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Watermelon",
-			"count": 2,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "3kg",
-			"comments": ["Great for summer.", "Very refreshing."]
-		},
-		{
-			"id": 6,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Strawberry",
-			"count": 30,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "1kg",
-			"comments": ["Perfect with cream.", "Sweet and juicy."]
-		},
-		{
-			"id": 7,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Blueberry",
-			"count": 40,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "500g",
-			"comments": ["Rich in antioxidants.", "Great for pancakes."]
-		},
-		{
-			"id": 8,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Pineapple",
-			"count": 5,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "1.5kg",
-			"comments": ["Sweet and tangy.", "Perfect for desserts."]
-		},
-		{
-			"id": 9,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Mango",
-			"count": 12,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "300g",
-			"comments": ["Delicious and creamy.", "Very juicy."]
-		},
-		{
-			"id": 10,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Kiwi",
-			"count": 18,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "100g",
-			"comments": ["High in Vitamin C.", "Tart and sweet."]
-		},
-		{
-			"id": 11,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Pear",
-			"count": 6,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "220g",
-			"comments": ["Soft and buttery.", "Nice flavor."]
-		},
-		{
-			"id": 12,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Peach",
-			"count": 14,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "150g",
-			"comments": ["Sweet and juicy.", "Perfect for pies."]
-		},
-		{
-			"id": 13,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Plum",
-			"count": 22,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "80g",
-			"comments": ["Sweet and tart.", "Good for snacking."]
-		},
-		{
-			"id": 14,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Avocado",
-			"count": 9,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "200g",
-			"comments": ["Perfect for guacamole.", "Rich and creamy."]
-		},
-		{
-			"id": 15,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Tomato",
-			"count": 16,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "100g",
-			"comments": ["Great for salads.", "Fresh and firm."]
-		},
-		{
-			"id": 16,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Cucumber",
-			"count": 13,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "180g",
-			"comments": ["Crisp and refreshing.", "Good for sandwiches."]
-		},
-		{
-			"id": 17,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Lemon",
-			"count": 25,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "70g",
-			"comments": ["Perfect for lemonade.", "Great for cooking."]
-		},
-		{
-			"id": 18,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Lime",
-			"count": 27,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "60g",
-			"comments": ["Great for cocktails.", "Fresh and tangy."]
-		},
-		{
-			"id": 19,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Papaya",
-			"count": 4,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "1kg",
-			"comments": ["Tropical and sweet.", "Good for digestion."]
-		},
-		{
-			"id": 20,
-			"imageUrl": "https://via.placeholder.com/200",
-			"name": "Coconut",
-			"count": 7,
-			"size": {
-				"width": 200,
-				"height": 200
-			},
-			"weight": "1.2kg",
-			"comments": ["Great for drinks.", "Versatile and nutritious."]
-		}
-	]
+  "products": [
+    {
+      "id": "1",
+      "imageUrl": "https://www.cupitfood.com/wp-content/uploads/2018/08/wholesale-apples.png",
+      "name": "Apple",
+      "count": 10,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "150g",
+      "comments": [
+        "Fresh and juicy.",
+        "Great taste!"
+      ]
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://pngimg.com/d/banana_PNG843.png",
+      "name": "Banana",
+      "count": 15,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "120g",
+      "comments": [
+        "Good for smoothies.",
+        "Soft and sweet."
+      ]
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://freepngimg.com/save/764-orange-png-image-download/256x256",
+      "name": "Orange",
+      "count": 8,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "250g",
+      "comments": [
+        "Perfect for juice.",
+        "Very fresh."
+      ]
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://freepngimg.com/save/13230-grape-picture/200x200",
+      "name": "Grapes",
+      "count": 20,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "500g",
+      "comments": [
+        "Seedless and sweet.",
+        "Nice and crunchy."
+      ]
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://www.fruits365.shop/cdn/shop/products/watermelon-royalty-free-image-157374780-1554932730_200x200.jpg?v=1636352653",
+      "name": "Watermelon",
+      "count": 2,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "3kg",
+      "comments": [
+        "Great for summer.",
+        "Very refreshing."
+      ]
+    },
+    {
+      "id": "6",
+      "imageUrl": "https://cdn.pixabay.com/photo/2016/03/05/19/11/strawberry-1238295_640.jpg",
+      "name": "Strawberry",
+      "count": 30,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "1kg",
+      "comments": [
+        "Perfect with cream.",
+        "Sweet and juicy."
+      ]
+    },
+    {
+      "id": "7",
+      "imageUrl": "https://atlas-content-cdn.pixelsquid.com/assets_v2/318/3185684586814248881/previews/G03-200x200.jpg",
+      "name": "Blueberry",
+      "count": 40,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "500g",
+      "comments": [
+        "Rich in antioxidants.",
+        "Great for pancakes."
+      ]
+    },
+    {
+      "id": "8",
+      "imageUrl": "https://freepngimg.com/thumb/categories/1043.png",
+      "name": "Pineapple",
+      "count": 5,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "1.5kg",
+      "comments": [
+        "Sweet and tangy.",
+        "Perfect for desserts."
+      ]
+    },
+    {
+      "id": "9",
+      "imageUrl": "https://pngimg.com/uploads/mango/small/mango_PNG9179.png",
+      "name": "Mango",
+      "count": 12,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "300g",
+      "comments": [
+        "Delicious and creamy.",
+        "Very juicy."
+      ]
+    },
+    {
+      "id": "10",
+      "imageUrl": "https://pngimg.com/uploads/kiwi/small/kiwi_PNG4035.png",
+      "name": "Kiwi",
+      "count": 18,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "100g",
+      "comments": [
+        "High in Vitamin C.",
+        "Tart and sweet."
+      ]
+    },
+    {
+      "id": "11",
+      "imageUrl": "https://www.calpear.com/wp-content/uploads/2015/07/varieties-detail-sunsprite.gif",
+      "name": "Pear",
+      "count": 6,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "220g",
+      "comments": [
+        "Soft and buttery.",
+        "Nice flavor."
+      ]
+    },
+    {
+      "id": "12",
+      "imageUrl": "https://www.freeiconspng.com/uploads/peach-png-transparent-photo-0.png",
+      "name": "Peach",
+      "count": 14,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "150g",
+      "comments": [
+        "Sweet and juicy.",
+        "Perfect for pies."
+      ]
+    },
+    {
+      "id": "13",
+      "imageUrl": "https://media.istockphoto.com/id/1343635919/photo/delicious-ripe-plums-on-white.jpg?s=612x612&w=0&k=20&c=rShlQYEqYqO7RZsOLpT0S4P6S3LIVasCk0QF4OEoVGo=",
+      "name": "Plum",
+      "count": 22,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "80g",
+      "comments": [
+        "Sweet and tart.",
+        "Good for snacking."
+      ]
+    },
+    {
+      "id": "14",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRszVQ9ALzVzKBQsEEQyvtMWPSJmr9tpKRxBQ&s",
+      "name": "Avocado",
+      "count": 9,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "200g",
+      "comments": [
+        "Perfect for guacamole.",
+        "Rich and creamy."
+      ]
+    },
+    {
+      "id": "15",
+      "imageUrl": "https://pngimg.com/uploads/tomato/small/tomato_PNG12511.png",
+      "name": "Tomato",
+      "count": 16,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "100g",
+      "comments": [
+        "Great for salads.",
+        "Fresh and firm."
+      ]
+    },
+    {
+      "id": "16",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnRkadw148yG6Lmp4AZqgflJBE-w9PC7jQQ&s",
+      "name": "Cucumber",
+      "count": 13,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "180g",
+      "comments": [
+        "Crisp and refreshing.",
+        "Good for sandwiches."
+      ]
+    },
+    {
+      "id": "17",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcYJZj7UiuifDeFPKIgGAPC2B8VaGzUsySkg&s",
+      "name": "Lemon",
+      "count": 25,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "70g",
+      "comments": [
+        "Perfect for lemonade.",
+        "Great for cooking."
+      ]
+    },
+    {
+      "id": "18",
+      "imageUrl": "https://st5.depositphotos.com/29339490/72953/i/450/depositphotos_729534690-stock-photo-lime-isolated-white-background.jpg",
+      "name": "Lime",
+      "count": 27,
+      "size": {
+        "width": 200,
+        "height": 200
+      },
+      "weight": "60g",
+      "comments": [
+        "Great for cocktails.",
+        "Fresh and tangy."
+      ]
+    }
+  ]
 }
